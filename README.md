@@ -138,6 +138,6 @@ The COVID-19 completely change the people the way of the work, most of companies
 
 For additional information, pls refer to [Beanworks official website](https://www.beanworks.com/).
 
-x
+
 
 
