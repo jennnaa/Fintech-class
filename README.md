@@ -10,7 +10,7 @@ Beanworks Solutions Inc.  (“Beanworks”, respectively)
 ### When was the company incorporated?
 Beanworks founded in 2012 in Vancouver, British Columbia, Canada. 
 
-### who are the founder of the company?
+### who are the founders of the company?
 There are four co-founders for Beanworks, Catherine, Cory, Reza and Tracy. 
 
 - Catherine Dehal is a CEO of Beanworks.  She is a CPA, CMA with more than 25 years of operational accounting and management experience.  She maintains a unique perspective into the accounting industry at large.  
@@ -30,9 +30,9 @@ Since Beanworks was founded in 2012, it has participated in 2 rounds of funding.
 
 The diagram obtained from https://www.owler.com/company/beanworks
 
-## Business Activities 
+## Business Activities: 
 
-### What specific financial problem is the company or project try to resolve?
+### What specific financial problem is the company or project trying to resolve?
 Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit.
 
 They can try to resolve the below issues:
@@ -59,7 +59,7 @@ Beanworks enhances the existing accounting software with more transparent and co
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/intergration.png)
 
-## Landscape
+## Landscape:
 
 ### What domain of the financial industry is the company in?
 Beanworks domain in the accounting and expenses management in Financial industry.  
@@ -68,7 +68,7 @@ Beanworks domain in the accounting and expenses management in Financial industry
 Beanworks enhanced the existing accounting software with more transparent and cost-effective account payable processes. 
 
 ### What are the other major companies in this domains?
-The top 10 competitors in Beanworks' competitive set are Chargify, Chargebee, iPayables, Recurly, Zuora, Fusebill, Vindi, AvidXchange, Spreedly, Aria Systems. [1]
+The top 3 competitors in Beanworks' competitive set are Chargify, Chargebee, iPayables. [1]
 
 1. Chargify has been one of Beanworks's top competitors. Chargify is a Private company that was founded in 2009 in San Antonio, Texas. Like Beanworks, Chargify also competes in the Internet Software sector. Compared to Beanworks, Chargify has 55 more employees.
 
@@ -96,7 +96,6 @@ Beanworks continue the technology innovation:
 - Integrate Beanworks with Microsoft Dynamics GP:  The COVID-19 pandemic has forced many accounts payable (AP) teams to completely change the way they work. Many businesses have had to adapt to working remotely, which means manual, paper-based processes are no longer feasible. Beanworks now integrates with Microsoft Dynamics GP – and it has simplified the entire AP process, making it more efficient, safer from risk, and easier to use remotely. The new integration eliminates time-consuming data entry tasks and automatically routes AP documents for approval. 
 - Beanworks announce new feature to automate employee expenses processing for remote teams:  The new feature allows employees to submit expense receipts online via the Beanworks app or website. Once uploaded, managers can review receipts and approve reimbursements from any location. The process is fast, accurate, and a much-needed solution as remote work becomes commonplace. 
 - Beanworks and Nvoicepay Power Efficient Accounts Payable Teams Working from Anywhere: During nation-wide business changes prompted by COVID-19, Nvoicepay and Beanworks supported work-from-home initiatives for customers. This includes offering remote approvals across multiple locations, 15-day implementation, and secure, remote access to accounts payable processes, ensuring safe business practices in a work-from-home environment.  
-
 
 ## Recommendations
 
