@@ -63,12 +63,24 @@ See below the breakdown structure for details:
 ![Breaddown of Beanworks AP customers by Industry](https://github.com/jennnaa/Fintech-class/blob/main/breakdown-of-beanworksap.png)
 
 ### What solution does this company offer that their competitors do not or cannot offer?  
-The Beanworks customer wins are being incorporated in the Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of ERP Financial Management software systems and their digital transformation initiatives. 
+Beanworks customer wins are being incorporated in the Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of ERP Financial Management software systems and their digital transformation initiatives. 
 
 ### Which technologies are they currently using, and how are they implementing them?
 Beanworks enhances the existing accounting software with more transparent and cost-effective accounts payable processes.
 
+The Beanworks, a cloud based, accounting payable automation solution, they help companies streamline their invoice-to-payment strategies by eliminating paperwork and fostering collaboration in the accounting process. They dedicated to the ongoing innovation of the accounting process. As an account payable automation solution, we help companies get from invoice to payment faster at a fraction of traditional AP processing costs. Our software, BeanworksAP, helps accounting teams work smarter by eliminating paper and using more strategic accounting in their business.
+
+1. Mitigate risk with stronger controls: Use custom rules to automate and see every step of the companies’ AP workflow. Easily route POs, invoices, and payment approvals to the right team member at the right time.
+
+2. Gain visibility of the AP spend from anywhere: Easily look up the details of any invoice, PO or payment in the cloud, regardless of where it is in the workflow. Accurately accrue liabilities in real time and get a better understanding of the vendor spend.
+
+3. Reduce costs by working smarter: Manual AP is labor-intensive and can cost up to $15 to process an invoice. Save team time by reducing follow-ups and eliminating 83% of data entry.
+
+4. Integration with different accounting software: See below picture. 
+
 ![](https://github.com/jennnaa/Fintech-class/blob/main/intergration.png)
+
+*The pitcure is from https://wearebctech.com/spotlight-on-beanworks/*
 
 ## Landscape:
 
@@ -90,7 +102,7 @@ The top 3 competitors in Beanworks' competitive set are Chargify, Chargebee, iPa
 ## Results
 
 ### What has been business impact of this company so far?
-There is no impact impact for this company since the many has great reputation and most of them a app based, no big impact during COVID-19.
+Since Beanworks provides cloud based on software, there is no big impact for the Company during COVID-19 in 2020. 
 
 ### What are some of the core metrics that companies in this domain use to measure success? 
 Here are 5 KPIs to measure success in the account payable department and identify the roadblocks costing time and money. 
@@ -102,7 +114,7 @@ Here are 5 KPIs to measure success in the account payable department and identif
 5.	Total touch points: This measure how many interventions or touch points one invoice has as it’s being processed
 
 ### How is your company performing relative to competitors in the same domain?
-Beanworks continue the technology innovation: 
+Since Beanworks is dedicated to the ongoing innovation of the accounting, they keep innovate the cloud accounting software by bellowing aspects.
 
 - Integrate Beanworks with Microsoft Dynamics GP:  The COVID-19 pandemic has forced many accounts payable (AP) teams to completely change the way they work. Many businesses have had to adapt to working remotely, which means manual, paper-based processes are no longer feasible. Beanworks now integrates with Microsoft Dynamics GP – and it has simplified the entire AP process, making it more efficient, safer from risk, and easier to use remotely. The new integration eliminates time-consuming data entry tasks and automatically routes AP documents for approval. 
 - Beanworks announce new feature to automate employee expenses processing for remote teams:  The new feature allows employees to submit expense receipts online via the Beanworks app or website. Once uploaded, managers can review receipts and approve reimbursements from any location. The process is fast, accurate, and a much-needed solution as remote work becomes commonplace. 
@@ -111,7 +123,7 @@ Beanworks continue the technology innovation:
 ## Recommendations
 
 ### If you were to advise the company, what products or service would you suggest they offer?
-I would like Beanworks to provide more accounting software, more cloud accounting software. 
+I would like Beanworks to provide more kinds of accounting software, not only focus on Account payable, maybe account receivables analysis since they have similar concept. In addition, Beanworks can expand their business to provide more cloud platforms or hybrid product.
 
 ### Why do you think that offering this product or service would benefit the company?
 Not only is the cloud changing the way we work and how we get information, it is also providing us with something the world of accounting has long been demanding: real-time data visibility and automation. 
