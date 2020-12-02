@@ -1,6 +1,6 @@
 # Beanworks Soluations Inc. 
 
-! [] (https://github.com/jennnaa/Fintech-class/blob/main/beanworks-logo-colour.png)
+![](https://github.com/jennnaa/Fintech-class/blob/main/beanworks-logo-colour.png)
 
 ## Overview and Origin 
 
