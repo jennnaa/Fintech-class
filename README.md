@@ -25,11 +25,17 @@ There are four co-founders for Beanworks, Catherine, Cory, Reza and Tracy.
 Beanworks is an accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. Accounts payable (AP) is consistently ranked as the most frustrating and time-consuming part of accounting by finance professionals. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire AP process, from the purchase decision to invoice approval with electronic payments included in the experience.
 
 ### How is the company funded? How much funding they have received?
-Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. In total Beanworks has raised $12.2M. Beanworks' last funding round was on Sep 2018 for a total of $7.7M
+Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. 
+
+In June 2017, Beanworks raises $4.5 million Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.  *[1]*
+
+In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million CAD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund.   *[2]*
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/funding.PNG)
 
-The diagram obtained from https://www.owler.com/company/beanworks
+*Note: The diagram obtained from https://www.owler.com/company/beanworks*
+*[1] Reference from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+*[2] Reference from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
 
 ## Business Activities: 
 
@@ -44,6 +50,8 @@ They can try to resolve the below issues:
 
 ### Who is the Company intended customer?
 Beanworks customers around the world, any organizations that have business service and need for account payable services. 
+
+They targeted to mid-sized enterprises, allows accounting teams to automate redundant tasks from purchase order to electronic payment. The company says it can reduce invoice processing costs by 50 percent.
 
 ### Is that any information about the market size of this set of customers? 
 Companies using Beanworks or Accounts Payable Automation include: Compass Group USA, a United States based Professional Services organisation with 288133 employees and revenues of $19.52 billions, Home Point Financial Corporation, a United States based Banking and Financial Services organisation with 2000 employees and revenues of $250.0 millions, PetroShale Inc., a United States based Oil, Gas and Chemicals organisation with 15 employees and revenues of $165.0 millions, Gateway Property Management, a Canada based Construction and Real Estate organisation with 620 employees and revenues of $60.0 millions, Tesseract Capital Group, a United States based Construction and Real Estate organisation with 15 employees and revenues of $50.0 millions and many others.
