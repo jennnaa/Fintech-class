@@ -52,18 +52,12 @@ See below the breakdown structure for details:
 ![Breaddown of Beanworks AP customers by Industry](https://github.com/jennnaa/Fintech-class/blob/main/breakdown-of-beanworksap.png)
 
 ### What solution does this company offer that their competitors do not or cannot offer?  
-
-1.	Mitigate risk with stronger controls 
-Use custom rules to automate and see every step of your team's AP workflow. Easily route POs, invoices, and payment approvals to the right team member at the right time.
-2.	Gain visibility of your AP spend from anywhere
-Easily look up the details of any invoice, PO or payment in the cloud, regardless of where it is in the workflow. Accurately accrue liabilities in real time and get a better understanding of your vendor spend.
-3.	Reduce costs by working smarter
-Manual AP is labor-intensive and can cost up to $15 to process an invoice. Save your team time by reducing follow-ups and eliminating 83% of data entry.
-4.	Integration with different accounting software 
-
-![](https://github.com/jennnaa/Fintech-class/blob/main/intergration.png)
+The Beanworks customer wins are being incorporated in the Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of ERP Financial Management software systems and their digital transformation initiatives. 
 
 ### Which technologies are they currently using, and how are they implementing them?
+Beanworks enhances the existing accounting software with more transparent and cost-effective accounts payable processes.
+
+![](https://github.com/jennnaa/Fintech-class/blob/main/intergration.png)
 
 ## Landscape
 
