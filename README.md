@@ -27,14 +27,16 @@ Beanworks is an accounts payable automation solution that helps companies elimin
 ### How is the company funded? How much funding they have received?
 Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. 
 
-In June 2017, Beanworks raises $4.5 million Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.  *[1]*
+In June 2017, Beanworks raises $4.5 million Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.*[1]*
 
 In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million CAD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund.   *[2]*
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/funding.PNG)
 
 *Note: The diagram obtained from https://www.owler.com/company/beanworks*
+
 *[1] Reference from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+
 *[2] Reference from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
 
 ## Business Activities: 
