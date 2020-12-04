@@ -1,4 +1,4 @@
-# Beanworks Soluations Inc. 
+# Beanworks Solutions Inc. 
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/beanworks-logo-colour.png)
 
@@ -31,9 +31,9 @@ They start to build up accounts payable automation solution that helps companies
 ### How is the company funded? How much funding they have received?
 Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. 
 
-In June 2017, Beanworks raises $4.5 million (USD) Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.*[2]*
+In June 2017, Beanworks raises $4.5 million (USD) Series A. The round was led by Vancouver Founder Fund and TIMIA Capital. *[2]*
 
-In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million USD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund.   *[3]*
+In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million USD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund. *[3]*
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/funding.PNG)
 
