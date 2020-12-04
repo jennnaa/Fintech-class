@@ -153,9 +153,9 @@ With my idea, hopefully will open a new window for them, explore new opportunite
 
 
 #### Reference: 
-*[1] Obtain from https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
 
-*[2] Obtain from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+
+*[2] Reference from https://news.yahoo.com/cix-top-20-company-beanworks-190000928.html*
 
 *[3] Obtain from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
 
@@ -175,8 +175,4 @@ With my idea, hopefully will open a new window for them, explore new opportunite
 
 *[11]Obtain from (https://www.beanworks.com/blog/beanworks-introduces-xero-ap-automation-integration/)*
 
-For rest of the information in this artical, pls refer to [Beanworks official website](https://www.beanworks.com/).
-
-
-
-
+For rest of the information in this artical, please refer to [Beanworks official website](https://www.beanworks.com/).
