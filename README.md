@@ -13,7 +13,7 @@ Beanworks founded in 2012 in Vancouver, British Columbia, Canada.
 ### who are the founders of the company?
 There are four co-founders for Beanworks, Catherine, Cory, Reza and Tracy. 
 
-- <Catherine> Dehal is a CEO of Beanworks.  She is a CPA, CMA with more than 25 years of operational accounting and management experience.  She maintains a unique perspective into the accounting industry at large.  
+- _Catherine Dehal_ is a CEO of Beanworks.  She is a CPA, CMA with more than 25 years of operational accounting and management experience.  She maintains a unique perspective into the accounting industry at large.  
 
 - Cory Cleaver is a multifaceted designer that loves pushing pixels as much as he does writing solid code. He specializes in corporate branding, interaction design, front-end development, and enjoys being an integral part of the design process, from concept to completion. Cory is a co-founder.
 
