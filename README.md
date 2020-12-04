@@ -134,22 +134,25 @@ Since Beanworks is dedicated to the ongoing innovation of the accounting, they k
 ### If you were to advise the company, what products or service would you suggest they offer?
 I would like Beanworks to provide more of accounting software, not only Account payable, such as account receivables, since account payable and account receive both have similar concepts. 
 
-In addition, Beanworks can expand their business to provide more cloud platforms or hybrid products. Expend their intended user to big companies or public companies that has more requests. 
+In addition, Beanworks can expand their business to provide hybrid products. Expend their intended customer to big companies such as, big enterprises or public companies that have more account payables or other services requests. 
 
 ### Why do you think that offering this product or service would benefit the company?
-Explore new areas and hack for new ideas are always two keys to push fintech companies moving forward. It will not only attract more users, but push the Company innovation. 
+Explore new areas and hack for new ideas are always two main keys to push fintech companies moving forward. It will not only attract more users, but also push the Company moving forward to gain much market shares. 
 
-Provide hybrid product will expand their market for big enterprises, since some of large enterprise might not ready for cloud soluation due to size of their Company or security reason, keep them in desktop but provide more cloud benefits solution would attract those big companies to move to the cloud in the future. In addition also lead the Beanworks to think more solution for those hybrid users. 
+Provide hybrid product will expand their market for big enterprises, since some of large enterprise might not ready for purely cloud soluation, due to some reasons, such as size of their Company or security concerns, keep them in desktop or other their own platform, but provide more cloud benefits solution would attract those big companies to move to Beanworks ecosystem in the future. In addition it will lead the Beanworks to think more solutions for those potential hybrid users. 
 
 ### What technologies would this additional product or service utilize?
-To implement additional products or service as I recommend above, I would think that Beanworks need to think below few points:
+To implement additional products or service as I recommend above, I would think that Beanworks need to think below few points, for example: 
 - People, hire or maintain people within the Company，the 21st century is the century of talents;
-- Innovation, expend market with new innovation idea, will push the Company to learn new technolgies, adopt or explore more technicals that required for new products, and new market, for them to gain more market shares
+- Innovation, expend market with new innovation idea, will push the Company to learn new technolgies, adopt or explore more technicals that required for new products, and new market, for them to gain more market shares;
+- Enhancement, not only increase the scaleabilties for current product or features but explore new technicals to build up more efficient solutions for customers. 
 
 ### Why are these technologies appropriate for your soluations?
 Beanworks already gained some market shares on the current Account payable market, although they keep innovating their current products by either integrate with new tool or enhance existing feature, create new feature frequently. 
 
-With my idea, hopefully will open a new window for them, explore new opportunites. 
+With above idea, hopefully will open a new window for Beanworks.
+
+
 
 
 #### Reference: 
