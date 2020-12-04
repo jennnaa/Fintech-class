@@ -23,10 +23,9 @@ There are four co-founders for Beanworks, Catherine, Cory, Reza and Tracy.
 
 ### How did the idea for the company (on project) come about?
 
-Beanworks began in 2012 from the ideas of four co-founders: Catherine (CEO), Reza (CIO), Tracy (CExO), and Cory (Creative Director). With collective backgrounds in accounting, the founders recognized that accounting has many issues with paper-based accounts payable invoices. There was a clear need to serve accounting professionals in a more efficient and manageable way, so they created a cost-saving accounts payable automation software. Companies can easily integrate Beanworks into existing systems, saving excess expenses affecting the business’ bottom line. It’s also extremely important to mention that from the beginning there has been a 50/50 gender representation, and CEO Chatherine Dahl stresses this as a key to the company’s success throughout starting up.
+Beanworks began in 2012 from the ideas of four co-founders: Catherine (CEO), Reza (CIO), Tracy (CExO), and Cory (Creative Director). With collective backgrounds in accounting, the founders recognized that accounting has many issues with paper-based accounts payable invoices. There was a clear need to serve accounting professionals in a more efficient and manageable way, so they created a cost-saving accounts payable automation software. 
 
-They start to build up accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire AP process, from the purchase decision to invoice approval with electronic payments included in the experience. *[1]*
-
+They start to build up accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire Account payable process, from the purchase decision to invoice approval with electronic payments included in the experience. *[1]*
 
 ### How is the company funded? How much funding they have received?
 Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. 
@@ -153,7 +152,7 @@ Beanworks already gained some market shares on the current Account payable marke
 With my idea, hopefully will open a new window for them, explore new opportunites. 
 
 
-#### Reference 
+#### Reference: 
 *[1] Obtain from https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
 
 *[2] Obtain from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
