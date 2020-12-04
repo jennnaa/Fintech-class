@@ -42,9 +42,9 @@ In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million USD) Series
 ## Business Activities: 
 
 ### What specific financial problem is the company or project trying to resolve?
-As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit. *[5]*
+As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit. *[4]*
 
-They can try to resolve the below issues:  *[4]*
+They can try to resolve the below issues:  *[5]*
 
 - Approve invoices from anywhere using their mobile app
 - Eliminate up to 83% of data entry using automation
@@ -56,14 +56,14 @@ Beanworks customers are around the world, any organizations that have business s
 They targeted to mid-sized enterprises, allows accounting teams to automate redundant tasks from purchase order to electronic payment. The company says it can reduce invoice processing costs by 50 percent. *[2]*
 
 ### Is that any information about the market size of this set of customers? 
-Companies using Beanworks or Accounts Payable Automation include: Compass Group USA, a United States based Professional Services organisation with 288133 employees and revenues of $19.52 billions, Home Point Financial Corporation, a United States based Banking and Financial Services organisation with 2000 employees and revenues of $250.0 millions, PetroShale Inc., a United States based Oil, Gas and Chemicals organisation with 15 employees and revenues of $165.0 millions, Gateway Property Management, a Canada based Construction and Real Estate organisation with 620 employees and revenues of $60.0 millions, Tesseract Capital Group, a United States based Construction and Real Estate organisation with 15 employees and revenues of $50.0 millions and many others.
+Companies using Beanworks or Accounts Payable Automation include: Compass Group USA, a United States based Professional Services organisation with 288133 employees and revenues of $19.52 billions, Home Point Financial Corporation, a United States based Banking and Financial Services organisation with 2000 employees and revenues of $250.0 millions, PetroShale Inc., a United States based Oil, Gas and Chemicals organisation with 15 employees and revenues of $165.0 millions, Gateway Property Management, a Canada based Construction and Real Estate organisation with 620 employees and revenues of $60.0 millions, Tesseract Capital Group, a United States based Construction and Real Estate organisation with 15 employees and revenues of $50.0 millions and many others. *[6]*
 
-See below the breakdown structure for details:
+See below the breakdown structure for details:  *[6]*
 
-![Breaddown of Beanworks AP customers by Industry](https://github.com/jennnaa/Fintech-class/blob/main/breakdown-of-beanworksap.png)  *[6]*
+![Breaddown of Beanworks AP customers by Industry](https://github.com/jennnaa/Fintech-class/blob/main/breakdown-of-beanworksap.png)  
 
 ### What solution does this company offer that their competitors do not or cannot offer?  
-Beanworks customer wins are being incorporated in the Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of ERP Financial Management software systems and their digital transformation initiatives. 
+Beanworks wins are being incorporated in the Enterprise Applications Buyer Insight and Technographics Customer Database which has over 100 data fields that detail company usage of ERP Financial Management software systems and their digital transformation initiatives. 
 
 ### Which technologies are they currently using, and how are they implementing them?
 Beanworks delivers a SaaS model technology for AP automation from purchase decision to invoice approval. Beanworks enhances the existing accounting software with more transparent and cost-effective accounts payable processes. 
@@ -88,7 +88,7 @@ The Beanworks, a cloud based, accounting payable automation solution, they help 
 Beanworks domain in the accounting and expenses management in Financial industry.  
 
 ### What have been the major trends and innovations of this domain over the last 5-10 years?
-In the past 5-10 years, Beanworks achieved a lot of recognitions in the financial technology industry such as:  *[X]*
+In the past 5-10 years, Beanworks achieved a lot of recognitions in the financial technology industry such as:  *[7]*
 - Name to BIV's Top 100 Fastest Growing Companies 
 - IOFM Game Changer Award for 2017
 - Top 10 Finalist at Intuit's $100 Small Business App Showdown
@@ -99,7 +99,7 @@ In the past 5-10 years, Beanworks achieved a lot of recognitions in the financia
 In addition, Beanworks enhanced the existing accounting software with more transparent and cost-effective account payable processes. Beanworks integrated with many different kinds of the accounting system, allow users of Beanworks work more efficient.  
 
 ### What are the other major companies in this domains?
-The top 3 competitors in Beanworks' competitive set are Chargify, Chargebee, iPayables. *[x1]*
+The top 3 competitors in Beanworks' competitive set are Chargify, Chargebee, iPayables. *[8]*
 
 1. Chargify has been one of Beanworks's top competitors. Chargify is a Private company that was founded in 2009 in San Antonio, Texas. Like Beanworks, Chargify also competes in the Internet Software sector. Compared to Beanworks, Chargify has 55 more employees.
 
@@ -113,7 +113,7 @@ The top 3 competitors in Beanworks' competitive set are Chargify, Chargebee, iPa
 Since Beanworks provides cloud based on software, there is no big impact for the Company during COVID-19 in 2020. 
 
 ### What are some of the core metrics that companies in this domain use to measure success? 
-Here are 5 KPIs to measure success in the account payable department and identify the roadblocks costing time and money. *[x2]*
+Here are 5 KPIs to measure success in the account payable department and identify the roadblocks costing time and money. *[9]*
 
 1.	Cost to process a single invoice
 2.	Invoice processing time
@@ -125,8 +125,8 @@ Here are 5 KPIs to measure success in the account payable department and identif
 Since Beanworks is dedicated to the ongoing innovation of the accounting, they keep innovate the cloud accounting software by belowing aspects.
 
 - Integrate Beanworks with different accounting software, such as: 
-     - Microsoft Dynamics GP:  The COVID-19 pandemic has forced many accounts payable (AP) teams to completely change the way they work. Many businesses have had to adapt to working remotely, which means manual, paper-based processes are no longer feasible. Beanworks now integrates with Microsoft Dynamics GP – and it has simplified the entire AP process, making it more efficient, safer from risk, and easier to use remotely. The new integration eliminates time-consuming data entry tasks and automatically routes AP documents for approval. *[x3]*
-     - Xero: Xero has been designed specififically for small business with an emphasis on ease of use. Xero has different features such as robust online solution, multi-currency capabilities, collaborative accounting through the cloud. *[x4]*
+     - Microsoft Dynamics GP:  The COVID-19 pandemic has forced many accounts payable (AP) teams to completely change the way they work. Many businesses have had to adapt to working remotely, which means manual, paper-based processes are no longer feasible. Beanworks now integrates with Microsoft Dynamics GP – and it has simplified the entire AP process, making it more efficient, safer from risk, and easier to use remotely. The new integration eliminates time-consuming data entry tasks and automatically routes AP documents for approval. *[10]*
+     - Xero: Xero has been designed specififically for small business with an emphasis on ease of use. Xero has different features such as robust online solution, multi-currency capabilities, collaborative accounting through the cloud. *[11]*
 - Beanworks announce new feature to automate employee expenses processing for remote teams:  The new feature allows employees to submit expense receipts online via the Beanworks app or website. Once uploaded, managers can review receipts and approve reimbursements from any location. The process is fast, accurate, and a much-needed solution as remote work becomes commonplace. 
 - Beanworks and Nvoicepay Power Efficient Accounts Payable Teams Working from Anywhere: During nation-wide business changes prompted by COVID-19, Nvoicepay and Beanworks supported work-from-home initiatives for customers. This includes offering remote approvals across multiple locations, 15-day implementation, and secure, remote access to accounts payable processes, ensuring safe business practices in a work-from-home environment.  
 
@@ -154,29 +154,19 @@ With my idea, hopefully will open a new window for them, explore new opportunite
 
 
 #### Reference 
-*[1] Reference from https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
+*[1] Obtain from https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
+*[2] Obtain from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+*[3] Obtain from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
+*[4] Obtain from https://discovery.hgdata.com/product/beanworks*
+*[5] Obtain from https://go.beanworks.com/ap-automation-free/*
+*[6] Obtain from https://www.appsruntheworld.com/customers-database/products/view/beanworksap*
+*[7] Obtain from https://www.beanworks.com/blog/category/news-updates/*
+*[8] Obtain from https://www.owler.com/company/beanworks*
+*[9] Obtain from https://www.beanworks.com/blog/top-5-key-performance-indicators-for-accounts-payable-departments/*
+*[10]Obtain from ( https://www.beanworks.com/integrations/microsoft-dynamics/)*
+*[11]Obtain from (https://www.beanworks.com/blog/beanworks-introduces-xero-ap-automation-integration/)*
 
-*[2] Reference from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
-
-*[3] Reference from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
-
-*[4] Reference from https://go.beanworks.com/ap-automation-free/*
-
-*[5] Reference from https://discovery.hgdata.com/product/beanworks*
-
-*[6] Reference from https://www.appsruntheworld.com/customers-database/products/view/beanworksap*
-
-*[X] Reference from https://www.beanworks.com/blog/category/news-updates/*
-
-*[x1]Reference from https://www.owler.com/company/beanworks*
-
-*[x2]Reference from https://www.beanworks.com/blog/top-5-key-performance-indicators-for-accounts-payable-departments/*
-
-*[x3]Reference from ( https://www.beanworks.com/integrations/microsoft-dynamics/)*
-
-*[x4]Reference from (https://www.beanworks.com/blog/beanworks-introduces-xero-ap-automation-integration/)*
-
-For additional information, pls refer to [Beanworks official website](https://www.beanworks.com/).
+For rest of the information in this artical, pls refer to [Beanworks official website](https://www.beanworks.com/).
 
 
 
