@@ -155,15 +155,25 @@ With my idea, hopefully will open a new window for them, explore new opportunite
 
 #### Reference 
 *[1] Obtain from https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
+
 *[2] Obtain from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+
 *[3] Obtain from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
+
 *[4] Obtain from https://discovery.hgdata.com/product/beanworks*
+
 *[5] Obtain from https://go.beanworks.com/ap-automation-free/*
+
 *[6] Obtain from https://www.appsruntheworld.com/customers-database/products/view/beanworksap*
+
 *[7] Obtain from https://www.beanworks.com/blog/category/news-updates/*
+
 *[8] Obtain from https://www.owler.com/company/beanworks*
+
 *[9] Obtain from https://www.beanworks.com/blog/top-5-key-performance-indicators-for-accounts-payable-departments/*
+
 *[10]Obtain from ( https://www.beanworks.com/integrations/microsoft-dynamics/)*
+
 *[11]Obtain from (https://www.beanworks.com/blog/beanworks-introduces-xero-ap-automation-integration/)*
 
 For rest of the information in this artical, pls refer to [Beanworks official website](https://www.beanworks.com/).
