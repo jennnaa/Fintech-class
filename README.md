@@ -143,7 +143,7 @@ Provide hybrid product will expand their market for big enterprises, since some 
 
 ### What technologies would this additional product or service utilize?
 To implement additional products or service as I recommend above, I would think that Beanworks need to think below few points, for example: 
-- People, hire or maintain people within the Company，the 21st century is the century of talents;
+- People, hire or maintain people within the Company, the 21st century is the century of talents;
 - Innovation, expend market with new innovation idea, will push the Company to learn new technolgies, adopt or explore more technicals that required for new products, and new market, for them to gain more market shares;
 - Enhancement, not only increase the scaleabilties for current product or features but explore new technicals to build up more efficient solutions for customers. 
 
