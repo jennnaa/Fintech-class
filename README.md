@@ -22,27 +22,27 @@ There are four co-founders for Beanworks, Catherine, Cory, Reza and Tracy.
 - Tracy Thompson has a relentless passion for creating helpful and friendly relationships with customers. Her support team is efficient and looks for ways to go above and beyond with each customer interaction. Tracy has a BBA and has been a full-cycle bookkeeper. She has worked with web-based applications for over five years. Tracy is a co-founder.
 
 ### How did the idea for the company (on project) come about?
-Beanworks is an accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. Accounts payable (AP) is consistently ranked as the most frustrating and time-consuming part of accounting by finance professionals. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire AP process, from the purchase decision to invoice approval with electronic payments included in the experience.
+
+Beanworks began in 2012 from the ideas of four co-founders: Catherine (CEO), Reza (CIO), Tracy (CExO), and Cory (Creative Director). With collective backgrounds in accounting, the founders recognized that accounting has many issues with paper-based accounts payable invoices. There was a clear need to serve accounting professionals in a more efficient and manageable way, so they created a cost-saving accounts payable automation software. Companies can easily integrate Beanworks into existing systems, saving excess expenses affecting the business’ bottom line. It’s also extremely important to mention that from the beginning there has been a 50/50 gender representation, and CEO Chatherine Dahl stresses this as a key to the company’s success throughout starting up.
+
+They start to build up accounts payable automation solution that helps companies eliminate paperwork and reduce invoice processing costs. As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is modernizing the entire AP process, from the purchase decision to invoice approval with electronic payments included in the experience. *[1]*
+
 
 ### How is the company funded? How much funding they have received?
 Since Beanworks was founded in 2012, it has participated in 2 rounds of funding. 
 
-In June 2017, Beanworks raises $4.5 million (USD) Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.*[1]*
+In June 2017, Beanworks raises $4.5 million (USD) Series A. The round was led by Vancouver Founder Fund and TIMIA Capital.*[2]*
 
-In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million USD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund.   *[2]*
+In September 2017, Beanworks raises $10.1 million CAD ( $7.7 million USD) Series B round.  This round was lead by FINTOP Capital, with participation from BDC Capital’s Women in Technology Fund.   *[3]*
 
 ![](https://github.com/jennnaa/Fintech-class/blob/main/funding.PNG)
 
 *Note: The diagram obtained from https://www.owler.com/company/beanworks*
 
-*[1] Reference from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
-
-*[2] Reference from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
-
 ## Business Activities: 
 
 ### What specific financial problem is the company or project trying to resolve?
-Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit.
+As a company built by accountants for accountants, they empower accounting teams to succeed by automating AP - making it both simple and delightful.  Beanworks is an accounts payable automation solution that integrates with popular accounting systems such as Dynamics GP, QuickBooks, Sage 300, or Yardi. It enables users to streamline the accounts payable workflow by pulling invoice data into the online dashboard, route for approval, and pay the approved transactions by virtual credit card or direct deposit.
 
 They can try to resolve the below issues:
 
@@ -51,9 +51,7 @@ They can try to resolve the below issues:
 - Safely upload and store receipts digitally
 
 ### Who is the Company intended customer?
-Beanworks customers around the world, any organizations that have business service and need for account payable services. 
-
-They targeted to mid-sized enterprises, allows accounting teams to automate redundant tasks from purchase order to electronic payment. The company says it can reduce invoice processing costs by 50 percent.
+Beanworks customers are around the world, any organizations that have business service and need for account payable services. They targeted to mid-sized enterprises, allows accounting teams to automate redundant tasks from purchase order to electronic payment. The company says it can reduce invoice processing costs by 50 percent.
 
 ### Is that any information about the market size of this set of customers? 
 Companies using Beanworks or Accounts Payable Automation include: Compass Group USA, a United States based Professional Services organisation with 288133 employees and revenues of $19.52 billions, Home Point Financial Corporation, a United States based Banking and Financial Services organisation with 2000 employees and revenues of $250.0 millions, PetroShale Inc., a United States based Oil, Gas and Chemicals organisation with 15 employees and revenues of $165.0 millions, Gateway Property Management, a Canada based Construction and Real Estate organisation with 620 employees and revenues of $60.0 millions, Tesseract Capital Group, a United States based Construction and Real Estate organisation with 15 employees and revenues of $50.0 millions and many others.
@@ -135,6 +133,12 @@ More people to support the cloud, integrated cloud with desktop for large engage
 
 ### Why are these technologies appropriate for your soluations?
 The COVID-19 completely change the people the way of the work, most of companies would have virtual team with different location, cloud service will easy for them to gain access and save time. 
+
+
+#### Reference 
+*[1] https://www.beanworks.com/blog/beanworks-champions-gender-diversity-as-strategy-for-business-growth/#post-7590*
+*[2] Reference from https://betakit.com/beanworks-raises-4-5-million-series-a-adds-new-vps/*
+*[3] Reference from https://betakit.com/beanworks-raises-10-1-million-series-b-to-automate-accounting/*
 
 For additional information, pls refer to [Beanworks official website](https://www.beanworks.com/).
 
